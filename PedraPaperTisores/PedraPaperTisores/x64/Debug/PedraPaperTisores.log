@@ -1,0 +1,8 @@
+﻿  PedraPaperTisores.cpp
+D:\AluCiclesGS1\NilB\Programació\PedraPaperTisores\PedraPaperTisores\PedraPaperTisores.cpp(19,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\AluCiclesGS1\NilB\Programació\PedraPaperTisores\PedraPaperTisores\PedraPaperTisores.cpp(39,11): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+D:\AluCiclesGS1\NilB\Programació\PedraPaperTisores\PedraPaperTisores\PedraPaperTisores.cpp(10,9): warning C4101: 'pedra': variable local sin referencia
+D:\AluCiclesGS1\NilB\Programació\PedraPaperTisores\PedraPaperTisores\PedraPaperTisores.cpp(13,9): warning C4101: 'numeros': variable local sin referencia
+D:\AluCiclesGS1\NilB\Programació\PedraPaperTisores\PedraPaperTisores\PedraPaperTisores.cpp(12,9): warning C4101: 'tisores': variable local sin referencia
+D:\AluCiclesGS1\NilB\Programació\PedraPaperTisores\PedraPaperTisores\PedraPaperTisores.cpp(11,9): warning C4101: 'paper': variable local sin referencia
+  PedraPaperTisores.vcxproj -> D:\AluCiclesGS1\NilB\Programació\PedraPaperTisores\x64\Debug\PedraPaperTisores.exe
