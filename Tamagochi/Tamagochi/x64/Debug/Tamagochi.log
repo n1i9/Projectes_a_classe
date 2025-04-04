@@ -1,0 +1,19 @@
+﻿  Critter.cpp
+D:\AluCiclesGS1\NilB\Programació\Tamagochi\Tamagochi\Critter.cpp(126,89): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\AluCiclesGS1\NilB\Programació\Tamagochi\Tamagochi\Critter.cpp(201,17): warning C4244: '-=': conversión de 'double' a 'int'; posible pérdida de datos
+D:\AluCiclesGS1\NilB\Programació\Tamagochi\Tamagochi\Critter.cpp(204,17): warning C4244: '+=': conversión de 'double' a 'int'; posible pérdida de datos
+D:\AluCiclesGS1\NilB\Programació\Tamagochi\Tamagochi\Critter.cpp(210,17): warning C4244: '-=': conversión de 'double' a 'int'; posible pérdida de datos
+D:\AluCiclesGS1\NilB\Programació\Tamagochi\Tamagochi\Critter.cpp(213,17): warning C4244: '+=': conversión de 'double' a 'int'; posible pérdida de datos
+D:\AluCiclesGS1\NilB\Programació\Tamagochi\Tamagochi\Critter.cpp(222,17): warning C4244: '+=': conversión de 'double' a 'int'; posible pérdida de datos
+D:\AluCiclesGS1\NilB\Programació\Tamagochi\Tamagochi\Critter.cpp(231,17): warning C4244: '+=': conversión de 'double' a 'int'; posible pérdida de datos
+D:\AluCiclesGS1\NilB\Programació\Tamagochi\Tamagochi\Critter.cpp(240,17): warning C4244: '+=': conversión de 'double' a 'int'; posible pérdida de datos
+D:\AluCiclesGS1\NilB\Programació\Tamagochi\Tamagochi\Critter.cpp(246,17): warning C4244: '-=': conversión de 'double' a 'int'; posible pérdida de datos
+D:\AluCiclesGS1\NilB\Programació\Tamagochi\Tamagochi\Critter.cpp(255,17): warning C4244: '-=': conversión de 'double' a 'int'; posible pérdida de datos
+D:\AluCiclesGS1\NilB\Programació\Tamagochi\Tamagochi\Critter.cpp(258,17): warning C4244: '+=': conversión de 'double' a 'int'; posible pérdida de datos
+D:\AluCiclesGS1\NilB\Programació\Tamagochi\Tamagochi\Critter.cpp(287,12): warning C4244: '-=': conversión de 'double' a 'int'; posible pérdida de datos
+D:\AluCiclesGS1\NilB\Programació\Tamagochi\Tamagochi\Critter.cpp(288,13): warning C4244: '+=': conversión de 'double' a 'int'; posible pérdida de datos
+D:\AluCiclesGS1\NilB\Programació\Tamagochi\Tamagochi\Critter.cpp(289,13): warning C4244: '-=': conversión de 'double' a 'int'; posible pérdida de datos
+D:\AluCiclesGS1\NilB\Programació\Tamagochi\Tamagochi\Critter.cpp(382,27): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Tamagochi.cpp
+  Generando código...
+  Tamagochi.vcxproj -> D:\AluCiclesGS1\NilB\Programació\Tamagochi\x64\Debug\Tamagochi.exe
